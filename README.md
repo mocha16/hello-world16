@@ -3,3 +3,4 @@ just a random repo
 
 Annyeonghaseyo yeorobun
 hangeul 
+seoul
